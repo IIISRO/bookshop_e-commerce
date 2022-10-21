@@ -1,1 +1,1 @@
-# BSE-BOOKSHOP-PROJECT
+My first Python(flask) project[BOOKSHOP]
